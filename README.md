@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Hugo
 
+### In love with Kotlin
+
+### Fascinated by Golang and Grpc
+
+I'm a backend developer from Brazil.
+
+- 🔭 I’m currently working on Zup Innovation
+- 🌱 I’m currently learning Kotlin, Micronaut and Grpc
+- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/hugo-vallada/)
 <!--
 **hugovallada/hugovallada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
