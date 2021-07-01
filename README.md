@@ -6,7 +6,6 @@
 
 I'm a backend developer from Brazil.
 
-- 🔭 I’m currently working on Zup Innovation
 - 🌱 I’m currently learning Kotlin, Micronaut and Grpc
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/hugo-vallada/)
 <!--
