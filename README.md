@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hugo
 
-### Fascinated by Java/Kotlin, Go, Grpc and Python
+### Fascinated by Java/Kotlin, Go and Grpc
 
 
 I'm a backend developer from Brazil.
