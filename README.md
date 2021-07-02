@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Hugo
 
-### In love with Kotlin
-
-### Fascinated by Golang and Grpc
 
 I'm a backend developer from Brazil.
 
