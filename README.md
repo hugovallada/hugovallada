@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Hugo
 
+### Fascinated by Java/Kotlin, Go, Grpc and Python
+
 
 I'm a backend developer from Brazil.
 
