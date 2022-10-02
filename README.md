@@ -3,7 +3,7 @@
 I'm a backend developer from Brazil.
 
 - 🏢 I'm currently working at Zup IT Innovation
-- 🌱 I’m currently learning Kotlin, Micronaut and Grpc
+- 🌱 I’m currently learning Kotlin, Terraform, AWS
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/hugo-vallada/)
 <!--
 **hugovallada/hugovallada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
