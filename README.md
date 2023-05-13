@@ -7,9 +7,6 @@ I'm a backend developer from Brazil.
 
 **About me**
 
-I'm passionate about birds of prey
-
-
 - 🏢 I'm currently working at [Zup IT Innovation](https://www.zup.com.br/)
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/hugo-vallada/)
 
