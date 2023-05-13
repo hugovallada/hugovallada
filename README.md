@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Hugo
+<h1 align = "center"> Hello! I'm Hugo Vallada </h1>
+<h3 align = "center"> Welcome!! </h3>
 
 I'm a backend developer from Brazil.
 
