@@ -15,8 +15,13 @@ I'm a backend developer from Brazil.
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=hugovallada&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true&rank_icon=github"/>
 <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugovallada&layout=compact&langs_count=10&theme=shades-of-purple"/>
 </div>
+
+  <br />
   
-  <!-- [![Hugo Vallada](https://github-readme-medium.vercel.app/?username=valladahugo)](https://medium.com/@valladahugo) -->
+### 📝 Medium
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@valladahugo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@valladahugo/0" alt="Recent Article 0"> 
+
+<!--[![Hugo Vallada](https://github-readme-medium.vercel.app/?username=valladahugo)](https://medium.com/@valladahugo)-->
 
 
 <!--
