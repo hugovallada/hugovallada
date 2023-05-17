@@ -8,6 +8,11 @@ I'm a backend developer from Brazil.
 **About me**
 
 - 🏢 I'm currently working at [Zup IT Innovation](https://www.zup.com.br/)
+
+<!--## Contact me:
+
+<a target="_blank" href="mailto:valladahugo@gmail.com?subject=Hello,%20Hugo Vallada%20"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a target="_blank" href="https://www.linkedin.com/in/hugo-vallada/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
 - 📫 Reach me: [Linkedin](https://www.linkedin.com/in/hugo-vallada/)
 
 <div align = "center">
