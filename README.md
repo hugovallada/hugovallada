@@ -1,5 +1,4 @@
 <h1 align = "center"> Hello! I'm Hugo Vallada </h1>
-<h1 align = "center"> Welcome!! </h3>
 
 <br />
 
@@ -7,7 +6,12 @@
 
  - I'm a backend developer from Brazil.
  - 🏢 I'm currently working at [Zup IT Innovation](https://www.zup.com.br/)
- - Primarly working with cloud development using Kotlin/Java on AWS. Alson experienced with Python, Docker.
+ - Working experience:
+      - Programming Languages: Kotlin, Java and Python.
+      - Cloud: AWS (Kms, Secret Manager, ECS Fargate, DynamoDB, API Gateway, ELB, S3, Code Pipeline...)
+      - Devops: Terraform, Github Actions, Cloudformation
+      - Containers: Docker
+      - Observability: X-Ray, CloudWatch, Splunk, AppDynamics
  
 
 <div align = "center">
