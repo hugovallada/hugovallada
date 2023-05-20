@@ -16,28 +16,32 @@ I'm a backend developer from Brazil.
 </div>
   
   <br />
-  
-  ## Technologies:
+
+  ## Technologies you'll find here:
   <div>
-  <!-- PROGRAMMING LANGUAGES -->
-  <a href="https://kotlinlang.org/"><img height= "35" src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
-  <a href="https://dev.java"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <!--
-    <a href = ""><img height= "35" src= "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a> -->
-  <!--
-    <a href = ""><img height= "35" src= "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
-  <a href= ""><img height= "35" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  -->
-    <!-- FRAMEWORKS -->
-  <a href="https://spring.io/"><img height= "35" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-    <!-- DEVOPS & CLOUD -->
-     <a href="https://aws.amazon.com/"><img height= "35" src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-  <a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-  <a href="https://www.terraform.io/"><img height= "35" src= "https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></a>
-   
-   
+    <img src="assets/Kotlin.svg" height="35" alt="Kotlin">
+    <img src="assets/Java.svg" height="35" alt="Java">
+    <img src="assets/Python.svg" height="35" alt="Python">
+    <img src="assets/Spring.svg" height="35" alt="Spring">
+    <img src="assets/JUnit.svg" height="35">
+    <img src="assets/Terraform.svg" height="35" alt="Terraform">
+    <img src="assets/AWS.svg" height="35" alt="AWS">
+    <img src="assets/SQL.svg" height="35" alt="SQL">
+    <img src="assets/Docker.svg" height="35" alt="Docker">
   </div>
+
+  ## Technologies that i enjoy and you may find in here:
+  <div>
+    <img src="assets/Rust.svg" height="35" alt="Rust">
+    <img src="assets/Go.svg" height="35" alt="Go">
+    <img src="assets/Quarkus.svg" height="35" alt="Quarkus">
+    <img src="assets/Ktor.svg" height="35" alt="Ktor">
+    <img src="assets/Kafka.svg" height="35" alt="Kafka">
+    <img src="assets/GraphQL.svg" height="35" alt="GraphQL">
+    <img src="assets/Kubernetes.svg" height="35" alt="Kubernetes">
+
+  </div>
+  
   <br />
   
   
@@ -46,8 +50,8 @@ I'm a backend developer from Brazil.
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@valladahugo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@valladahugo/0" alt="Recent Article 0"> 
   
   ## Contact me:
-<a target="_blank" href="mailto:valladahugo@gmail.com?subject=Hello,%20Hugo Vallada%20"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a target="_blank" href="https://www.linkedin.com/in/hugo-vallada/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a target="_blank" href="mailto:valladahugo@gmail.com?subject=Hello,%20Hugo Vallada%20"><img src="assets/mail.svg" height="35" alt="mailto:valladahugo@gmail.com?subject=Hello,%20Hugo Vallada%20"></a>
+<a target="_blank" href="https://www.linkedin.com/in/hugo-vallada/"><img src="assets/LinkedIn.svg" height="35" alt="https://www.linkedin.com/in/hugo-vallada/">
 
 <!--[![Hugo Vallada](https://github-readme-medium.vercel.app/?username=valladahugo)](https://medium.com/@valladahugo)-->
 
