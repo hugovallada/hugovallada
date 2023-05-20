@@ -1,13 +1,14 @@
 <h1 align = "center"> Hello! I'm Hugo Vallada </h1>
-<h3 align = "center"> Welcome!! </h3>
+<h1 align = "center"> Welcome!! </h3>
 
 <br />
 
-I'm a backend developer from Brazil.
+## About Me
 
-**About me**
-
-- 🏢 I'm currently working at [Zup IT Innovation](https://www.zup.com.br/)
+ - I'm a backend developer from Brazil.
+ - 🏢 I'm currently working at [Zup IT Innovation](https://www.zup.com.br/)
+ - Primarly working with cloud development using Kotlin/Java on AWS. Alson experienced with Python, Docker.
+ 
 
 <div align = "center">
 <a href="https://github.com/hugovallada">
@@ -17,8 +18,8 @@ I'm a backend developer from Brazil.
   
   <br />
 
-  ## Technologies you'll find here:
-  <div>
+  ## Technologies that i'm currently working with:
+  <div align="center">
     <img src="assets/Kotlin.svg" height="35" alt="Kotlin">
     <img src="assets/Java.svg" height="35" alt="Java">
     <img src="assets/Python.svg" height="35" alt="Python">
@@ -30,8 +31,8 @@ I'm a backend developer from Brazil.
     <img src="assets/Docker.svg" height="35" alt="Docker">
   </div>
 
-  ## Technologies that i enjoy and you may find in here:
-  <div>
+  ## Technologies that I enjoy and that you may find here:
+  <div align="center">
     <img src="assets/Rust.svg" height="35" alt="Rust">
     <img src="assets/Go.svg" height="35" alt="Go">
     <img src="assets/Quarkus.svg" height="35" alt="Quarkus">
@@ -46,12 +47,16 @@ I'm a backend developer from Brazil.
   
   
  ##  📝 Medium
-  
+<div align="center">  
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@valladahugo/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@valladahugo/0" alt="Recent Article 0"> 
-  
+</div>  
+<br/>
+
   ## Contact me:
+<div align="center">
 <a target="_blank" href="mailto:valladahugo@gmail.com?subject=Hello,%20Hugo Vallada%20"><img src="assets/mail.svg" height="35" alt="mailto:valladahugo@gmail.com?subject=Hello,%20Hugo Vallada%20"></a>
 <a target="_blank" href="https://www.linkedin.com/in/hugo-vallada/"><img src="assets/LinkedIn.svg" height="35" alt="https://www.linkedin.com/in/hugo-vallada/">
+</div>
 
 <!--[![Hugo Vallada](https://github-readme-medium.vercel.app/?username=valladahugo)](https://medium.com/@valladahugo)-->
 
