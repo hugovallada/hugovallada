@@ -39,10 +39,12 @@
   <div align="center">
     <img src="assets/Rust.svg" height="35" alt="Rust">
     <img src="assets/Go.svg" height="35" alt="Go">
+    <img src="assets/Gin.svg" height="35" alt="Gin">
     <img src="assets/Quarkus.svg" height="35" alt="Quarkus">
     <img src="assets/Ktor.svg" height="35" alt="Ktor">
     <img src="assets/Kafka.svg" height="35" alt="Kafka">
     <img src="assets/GraphQL.svg" height="35" alt="GraphQL">
+    <img src="assets/grpc.svg" height="35" alt="Grpc">
     <img src="assets/Kubernetes.svg" height="35" alt="Kubernetes">
 
   </div>
