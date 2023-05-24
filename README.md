@@ -8,7 +8,8 @@
  - 🏢 I'm currently working at [Zup IT Innovation](https://www.zup.com.br/)
  - Working experience:
       - Programming Languages: Kotlin, Java and Python.
-      - Cloud: AWS (Kms, Secret Manager, ECS Fargate, DynamoDB, API Gateway, ELB, S3, Code Pipeline...)
+      - Frameworks: Spring, Micronaut
+      - Cloud: AWS (Lambda, Kms, Secret Manager, ECS Fargate, DynamoDB, API Gateway, ELB, S3, Code Pipeline...)
       - Devops: Terraform, Github Actions, Cloudformation
       - Containers: Docker
       - Observability: X-Ray, CloudWatch, Splunk, AppDynamics
@@ -46,6 +47,7 @@
     <img src="assets/GraphQL.svg" height="35" alt="GraphQL">
     <img src="assets/grpc.svg" height="35" alt="Grpc">
     <img src="assets/Kubernetes.svg" height="35" alt="Kubernetes">
+    <img src="assets/serverless.svg" height="35" alt="Serverless">
 
   </div>
   
