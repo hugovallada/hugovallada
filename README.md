@@ -38,7 +38,7 @@
 
   ## Technologies that I enjoy and that you may find here:
   <div align="center">
-    <img src="assets/Rust.svg" height="35" alt="Rust">
+    <img src="assets/Rust2.svg" height="35" alt="Rust">
     <img src="assets/Go.svg" height="35" alt="Go">
     <img src="assets/Gin.svg" height="35" alt="Gin">
     <img src="assets/Quarkus.svg" height="35" alt="Quarkus">
