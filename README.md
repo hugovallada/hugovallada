@@ -8,7 +8,7 @@
  - 🏢 I'm currently working at [Zup IT Innovation](https://www.zup.com.br/)
  - Working experience:
       - Programming Languages: Kotlin, Java and Python.
-      - Frameworks: Spring, Micronaut
+      - Frameworks: Spring, Micronaut, Quarkus
       - Cloud: AWS (Lambda, Kms, Secret Manager, ECS Fargate, DynamoDB, API Gateway, ELB, S3, Code Pipeline...)
       - Devops: Terraform, Github Actions, Cloudformation
       - Containers: Docker
