@@ -7,7 +7,7 @@
  - I'm a backend developer from Brazil.
  - 🏢 I'm currently working at [Zup IT Innovation](https://www.zup.com.br/)
  - Working experience:
-      - Programming Languages: Kotlin, Java and Python.
+      - Programming Languages: Kotlin, Java, Python and Golang.
       - Frameworks: Spring, Micronaut
       - Cloud: AWS (Lambda, Kms, Secret Manager, ECS Fargate, DynamoDB, API Gateway, ELB, S3, Code Pipeline...)
       - Devops: Terraform, Github Actions, Cloudformation
@@ -27,11 +27,13 @@
   <div align="center">
     <img src="assets/Kotlin.svg" height="35" alt="Kotlin">
     <img src="assets/Java.svg" height="35" alt="Java">
+    <img src="assets/Go.svg" height="35" alt="Go">
     <img src="assets/Python.svg" height="35" alt="Python">
     <img src="assets/Spring.svg" height="35" alt="Spring">
     <img src="assets/JUnit.svg" height="35">
     <img src="assets/Terraform.svg" height="35" alt="Terraform">
     <img src="assets/AWS.svg" height="35" alt="AWS">
+    <img src="assets/Kafka.svg" height="35" alt="Kafka">
     <img src="assets/SQL.svg" height="35" alt="SQL">
     <img src="assets/Docker.svg" height="35" alt="Docker">
   </div>
@@ -39,11 +41,9 @@
   ## Technologies that I enjoy and that you may find here:
   <div align="center">
     <img src="assets/Rust2.svg" height="35" alt="Rust">
-    <img src="assets/Go.svg" height="35" alt="Go">
     <img src="assets/Gin.svg" height="35" alt="Gin">
     <img src="assets/Quarkus.svg" height="35" alt="Quarkus">
     <img src="assets/Ktor.svg" height="35" alt="Ktor">
-    <img src="assets/Kafka.svg" height="35" alt="Kafka">
     <img src="assets/GraphQL.svg" height="35" alt="GraphQL">
     <img src="assets/grpc.svg" height="35" alt="Grpc">
     <img src="assets/Kubernetes.svg" height="35" alt="Kubernetes">
